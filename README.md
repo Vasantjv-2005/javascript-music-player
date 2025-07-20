@@ -2,7 +2,7 @@
 
 A beautiful, modern web-based music player with a sleek glassmorphism design and smooth animations.
 
-## ✨ Features
+# ✨ Features
 
 - **🎨 Modern UI**: Glassmorphism design with gradient backgrounds and smooth animations
 - **🎵 Audio Playback**: Full audio controls with play, pause, next, previous, and shuffle
